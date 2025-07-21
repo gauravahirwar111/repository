@@ -1,2 +1,4 @@
 # repository
-nothing
+this is first git repository
+
+author -gaurav ahirwar
